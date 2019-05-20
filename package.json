@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "^0.98.1",
+    "ip": "^1.1.5",
+    "moniker": "^0.1.2"
+  }
+}
